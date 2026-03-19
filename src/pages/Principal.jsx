@@ -93,7 +93,7 @@ export default function Principal() {
                                     <span class="px-2 py-0.5 rounded text-[15px] font-label bg-tertiary/20 text-tertiary uppercase">Full-Stack</span>
                                 </div>
                                 <h3 class="text-3xl font-bold mb-2">GlobinVerse</h3>
-                                <p class="text-on-surface-variant mb-6 max-w-lg">Plataforma integral para entusiastas de la lectura. GestiÃ³n de catÃ¡logo, pagos seguros y experiencia de usuario inmersiva.</p>
+                                <p class="text-on-surface-variant mb-6 max-w-lg">Plataforma integral para entusiastas de la lectura. Gestión de catalogo, pagos seguros y experiencia de usuario inmersiva.</p>
                                 
                             </div>
                         </div>
@@ -103,7 +103,7 @@ export default function Principal() {
                                 <div>
                                     <span class="px-2 py-0.5 rounded text-[10px] font-label bg-secondary/20 text-secondary uppercase mb-4 inline-block">Enterprise</span>
                                     <h3 class="text-2xl font-bold mb-2">GDC</h3>
-                                    <p class="text-on-surface-variant text-sm mb-6">Gestor Documental Centralizado. OptimizaciÃ³n de flujos de trabajo corporativos y gestiÃ³n segura de activos digitales.</p>
+                                    <p class="text-on-surface-variant text-sm mb-6">Gestor Documental Centralizado. Optimización de flujos de trabajo corporativos y gestión segura de activos digitales.</p>
                                 </div>
                                 <div class="space-y-4">
                                     <div class="flex flex-wrap gap-2">

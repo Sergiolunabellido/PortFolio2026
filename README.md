@@ -1,53 +1,72 @@
-# Portfolio · Sergio Luna
+# Sergio Luna - Full-Stack Developer 🚀
 
-Portfolio personal desarrollado con **React** para mostrar proyectos, stack tecnológico y contacto.
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=0B1220)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+
+¡Bienvenido/a! ✨ Este repositorio contiene mi **portfolio**, donde muestro mis proyectos, mi stack y mi forma de trabajar.
 
 ![Preview](src/assets/hero.png)
 
-## Stack
+---
 
-- React + React Router
-- Vite
-- Tailwind CSS
+## Sobre mí 👋
 
-## Secciones
+Soy **Sergio Luna**, desarrollador **Full-Stack**. Disfruto construyendo productos completos: **frontend + backend + datos**, cuidando la experiencia de usuario, el rendimiento y la mantenibilidad del código.
 
-- Hero / presentación
-- Sobre mí
-- Proyectos destacados
-- Stack tecnológico
-- Contacto
+---
 
-## Empezar en local
+## Skills & Stack 🛠️
 
-```bash
-npm install
-npm run dev
-```
+### Frontend 🎨
 
-## Scripts
+- React, JavaScript, HTML5, CSS3
+- Bootstrap, jQuery
 
-- `npm run dev`: servidor de desarrollo
-- `npm run build`: build de producción
-- `npm run preview`: previsualizar build
-- `npm run lint`: lint del proyecto
+### Backend ⚙️
 
-## Estructura
+- Node.js, Express
+- Java, Python, Kotlin
 
-- `src/pages/Principal.jsx`: página principal del portfolio
+### Datos & Auth 🗄️🔐
+
+- MySQL, MongoDB
+- SQL/NoSQL, JWT
+
+### Herramientas 🧰
+
+- Git, GitHub
+- Docker
+- VS Code, IntelliJ IDEA
+
+### Enfoque 💡
+
+- APIs REST
+- Arquitectura por capas y componentes
+- Buenas prácticas, código limpio y escalable
+
+---
+
+## Proyectos destacados 💼
+
+Estos son algunos de los proyectos que aparecen en el portfolio:
+
+- **GlobinVerse** 📚🛒: plataforma tipo e-commerce orientada al mundo de la lectura, con catálogo y UX cuidada.
+- **GDC** 🗂️🏢: gestor documental centralizado para entornos empresariales.
+- **AccesoDatos** 🧱💾: capa de persistencia para sistemas distribuidos, integrando fuentes SQL/NoSQL.
+- **AprendeCuidandote** ♿❤️: app centrada en accesibilidad y usabilidad (enfocada a personas mayores).
+
+---
+
+## Estructura del proyecto 🗺️
+
+- `src/pages/Principal.jsx`: página principal del portfolio (secciones y contenido)
 - `src/components/`: componentes reutilizables
 - `src/index.css`: estilos globales (incluye Tailwind)
 
-## Deploy
+---
 
-Genera la build con:
-
-```bash
-npm run build
-```
-
-El resultado queda en `dist/` y se puede desplegar en cualquier hosting estático (GitHub Pages, Netlify, Vercel, etc.).
-
-## Contacto
+## Contacto 📬
 
 - Email: `sergiolunabellido04@gmail.com`
