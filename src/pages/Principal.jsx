@@ -80,7 +80,7 @@ export default function Principal() {
                             <div class="inline-block px-4 py-1 rounded-md border border-primary/20 text-primary text-xs font-label uppercase tracking-widest mb-4">02 / Portfolio</div>
                             <h2 class="text-4xl font-bold">Proyectos <span class="text-secondary italic">Destacados</span></h2>
                         </div>
-                        <p class="text-on-surface-variant max-w-md text-right text-sm">SelecciÃ³n de trabajos donde la arquitectura se une con la funcionalidad para resolver problemas reales.</p>
+                        <p class="text-on-surface-variant max-w-md text-right text-sm">Selección de trabajos donde la arquitectura se une con la funcionalidad para resolver problemas reales.</p>
                     </div>
                     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-6">
 
