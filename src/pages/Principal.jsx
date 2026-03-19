@@ -162,7 +162,6 @@ export default function Principal() {
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
         <div class="space-y-6">
             <div class="flex items-center gap-3">
-                <span class="material-symbols-outlined text-primary">terminal</span>
                 <h4 class="font-bold text-lg">Frontend</h4>
             </div>
             <div class="grid grid-cols-2 sm:grid-cols-3 gap-3">
@@ -230,7 +229,6 @@ export default function Principal() {
 
         <div class="space-y-6">
             <div class="flex items-center gap-3">
-                <span class="material-symbols-outlined text-secondary">dns</span>
                 <h4 class="font-bold text-lg">Backend</h4>
             </div>
             <div class="grid grid-cols-2 sm:grid-cols-3 gap-3">
@@ -284,7 +282,6 @@ export default function Principal() {
 
         <div class="space-y-6">
             <div class="flex items-center gap-3">
-                <span class="material-symbols-outlined text-tertiary">storage</span>
                 <h4 class="font-bold text-lg">Bases de datos &amp; Auth</h4>
             </div>
             <div class="grid grid-cols-3 gap-3">
@@ -316,7 +313,6 @@ export default function Principal() {
 
         <div class="space-y-6">
             <div class="flex items-center gap-3">
-                <span class="material-symbols-outlined text-primary">deployed_code</span>
                 <h4 class="font-bold text-lg">Herramientas</h4>
             </div>
             <div class="grid grid-cols-2 sm:grid-cols-3 gap-3">
