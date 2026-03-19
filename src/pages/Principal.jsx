@@ -63,7 +63,7 @@ export default function Principal() {
                                 <div class="p-8 font-label text-sm md:text-base leading-relaxed overflow-x-auto text-wrap">
                                     <pre class="text-primary"><span class="text-secondary"></span>
                                         <span class="text-tertiary">"nombre"</span>: <span class="text-on-surface">"Sergio Luna"</span>,
-                                        <span class="text-tertiary">"ubicacion"</span>: <span class="text-on-surface">"EspaÃ±a"</span>,
+                                        <span class="text-tertiary">"ubicacion"</span>: <span class="text-on-surface">"España"</span>,
                                         <span class="text-tertiary">"rol"</span>: <span class="text-on-surface">"Full-Stack Developer"</span>,
                                         <span class="text-tertiary">"stack"</span>: <span class="text-on-surface">[<span class="text-primary-dim">"React"</span>, <span class="text-primary-dim">"Node.js"</span>, <span class="text-primary-dim">"Java"</span>]</span>,
                                         <span class="text-tertiary">"pasion"</span>: <span class="text-on-surface">"Convertir ideas en cÃ³digo elegante"</span>
@@ -134,7 +134,7 @@ export default function Principal() {
                                 <div class="p-8 flex flex-col justify-center">
                                     <span class="px-2 py-0.5 rounded text-[15px] font-label bg-error/20 text-error uppercase mb-4 inline-block w-fit">Social Impact</span>
                                     <h3 class="text-2xl font-bold mb-2">AprendeCuidandote</h3>
-                                    <p class="text-on-surface-variant text-sm mb-6">App diseÃ±ada para la 3ª edad. Fomentando el aprendizaje activo y el autocuidado con una interfaz accesible y amigable.</p>
+                                    <p class="text-on-surface-variant text-sm mb-6">App diseñada para la 3ª edad. Fomentando el aprendizaje activo y el autocuidado con una interfaz accesible y amigable.</p>
                                     <div class="flex gap-3">
                                         <span class="px-3 py-1 rounded border border-outline-variant/20 text-[15px] font-label">Flutter</span>
                                         <span class="px-3 py-1 rounded border border-outline-variant/20 text-[15px] font-label">Dart</span>
