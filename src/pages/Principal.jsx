@@ -118,7 +118,7 @@ export default function Principal() {
                         <div class="lg:col-span-4 group relative overflow-hidden rounded-xl glass-card transition-all duration-500 hover:border-tertiary/40">
                             <div class="p-8 h-full flex flex-col justify-between border-t-4 border-tertiary/20">
                                 <div>
-                                    <span class="px-2 py-0.5 rounded text-[15px] font-label bg-tertiary/20 text-tertiary uppercase mb-4 inline-block">IntegraciÃ³n</span>
+                                    <span class="px-2 py-0.5 rounded text-[15px] font-label bg-tertiary/20 text-tertiary uppercase mb-4 inline-block">Integración</span>
                                     <h3 class="text-2xl font-bold mb-2">AccesoDatos</h3>
                                     <p class="text-on-surface-variant text-sm">Capa de persistencia avanzada para sistemas distribuidos. IntegraciÃ³n fluida de mÃºltiples fuentes de datos SQL/NoSQL.</p>
                                 </div>
