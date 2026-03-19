@@ -120,7 +120,7 @@ export default function Principal() {
                                 <div>
                                     <span class="px-2 py-0.5 rounded text-[15px] font-label bg-tertiary/20 text-tertiary uppercase mb-4 inline-block">Integración</span>
                                     <h3 class="text-2xl font-bold mb-2">AccesoDatos</h3>
-                                    <p class="text-on-surface-variant text-sm">Capa de persistencia avanzada para sistemas distribuidos. IntegraciÃ³n fluida de mÃºltiples fuentes de datos SQL/NoSQL.</p>
+                                    <p class="text-on-surface-variant text-sm">Capa de persistencia avanzada para sistemas distribuidos. Integración fluida de multiples fuentes de datos SQL/NoSQL.</p>
                                 </div>
                                 <div class="mt-8 flex justify-between items-center">
                                     <span class="material-symbols-outlined text-4xl text-on-surface-variant/20">database</span>
@@ -134,7 +134,7 @@ export default function Principal() {
                                 <div class="p-8 flex flex-col justify-center">
                                     <span class="px-2 py-0.5 rounded text-[15px] font-label bg-error/20 text-error uppercase mb-4 inline-block w-fit">Social Impact</span>
                                     <h3 class="text-2xl font-bold mb-2">AprendeCuidandote</h3>
-                                    <p class="text-on-surface-variant text-sm mb-6">App diseÃ±ada para la 3Âª edad. Fomentando el aprendizaje activo y el autocuidado con una interfaz accesible y amigable.</p>
+                                    <p class="text-on-surface-variant text-sm mb-6">App diseÃ±ada para la 3ª edad. Fomentando el aprendizaje activo y el autocuidado con una interfaz accesible y amigable.</p>
                                     <div class="flex gap-3">
                                         <span class="px-3 py-1 rounded border border-outline-variant/20 text-[15px] font-label">Flutter</span>
                                         <span class="px-3 py-1 rounded border border-outline-variant/20 text-[15px] font-label">Dart</span>
