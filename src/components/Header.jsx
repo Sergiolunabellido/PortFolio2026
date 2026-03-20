@@ -19,7 +19,7 @@ export default function Header(){
         <div className="fixed top-0 w-full z-50 bg-[#151a21]/60 backdrop-blur-xl border-b border-gray-800/10 shadow-[0_0_40px_rgba(88,166,255,0.05)]">
             <nav className="flex justify-between items-center max-w-7xl mx-auto px-8 h-20">
                 <div className="flex items-center gap-2">
-                    <span className="text-xl font-bold bg-gradient-to-r from-secondary to-primary bg-clip-text text-transparent font-['Space_Grotesk'] tracking-tight">
+                    <span className="text-xl font-bold bg-gradient-to-r from-secondary to-primary bg-clip-text text-transparent tracking-tight">
                         Sergio Luna
                     </span>
                     <span className="hidden md:inline-block px-2 py-0.5 rounded border border-outline-variant/20 text-[10px] uppercase tracking-widest text-on-surface-variant font-label">
