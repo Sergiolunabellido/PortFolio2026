@@ -120,7 +120,11 @@ export default function Principal() {
                             </div>
                         </a>
 
-                        <div class="lg:col-span-4 group relative overflow-hidden rounded-xl glass-card transition-all duration-500 hover:border-tertiary/40">
+                    
+                        <a class="lg:col-span-4 group relative overflow-hidden rounded-xl glass-card transition-all duration-500 hover:border-tertiary/40"
+                            href="https://github.com/Sergiolunabellido/ProyectoAccesoDatos"
+                            aria-label="Abrir repositorio de AccesoDatos en GitHub"
+                        >
                             <div class="p-8 h-full flex flex-col justify-between border-t-4 border-tertiary/20">
                                 <div>
                                     <span class="px-2 py-0.5 rounded text-[15px] font-label bg-tertiary/20 text-tertiary uppercase mb-4 inline-block">Integración</span>
@@ -132,7 +136,7 @@ export default function Principal() {
                                     <span class="text-[15px] font-label text-on-surface-variant">API RESTful</span>
                                 </div>
                             </div>
-                        </div>
+                        </a>
 
                         <a
                             class="block lg:col-span-8 group relative overflow-hidden rounded-xl glass-card transition-all duration-500 hover:border-primary/40 cursor-pointer focus-visible:outline focus-visible:outline-2 focus-visible:outline-primary/60"
