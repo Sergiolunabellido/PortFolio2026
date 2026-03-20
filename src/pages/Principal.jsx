@@ -84,35 +84,38 @@ export default function Principal() {
                     </div>
                     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-6">
 
-                        <div class=" lg:col-span-8 group relative overflow-hidden rounded-xl glass-card transition-all duration-500 hover:border-primary/40" onClick={"https://github.com/Sergiolunabellido/GlobinVerse"}>
-                            
-                            <img class="w-full h-[400px] object-cover transition-transform duration-700 group-hover:scale-110" data-alt="Dark library or digital book shelf concept" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCZsmM3h-Y2n-VwCoVPzPsFwah9YR2SeFcbA3J4M7lkSjfPFnfqsYwmxQ-biLCDpIfi1LoBn8m1UuTZCbMGeB8455Lq2x7cpIavH3t7K-eptUyNcqQBop-nZUaW_ByzPI6EuTKleOVSfkgzt0mCy0cNq1E5OWZQoJ1GPvjDI-9G2G5fuCjBvIdkw8lsJEF84RDL11wpB-7Jf5tKJ7UE6c7qjZuiucBs8SoOHnTFYkdc0JymJJheFUgxPACKUC3igGDSlKW1eGJAnG0" />
-                            <div class="absolute bottom-[25%] w-full flex flex-col items-center ">
-                                <div class="flex gap-2 mb-4">
-                                    <span class="px-2 py-0.5 rounded text-[15px] font-b font-label bg-primary/20 text-primary uppercase">Proyecto Web</span>
-                                    <span class="px-2 py-0.5 rounded text-[15px] font-label bg-tertiary/20 text-tertiary uppercase">Full-Stack</span>
-                                </div>
-                                <h3 class="text-3xl font-bold mb-2">GoblinVerse</h3>
-                                <p class="text-on-surface-variant mb-6 max-w-lg">Plataforma integral para entusiastas de la lectura. Gestión de catalogo, pagos seguros y experiencia de usuario inmersiva.</p>
-                                
-                            </div>
-                        </div>
-
-                        <div class="lg:col-span-4 group relative overflow-hidden rounded-xl glass-card transition-all duration-500 hover:border-secondary/40" onClick={"https://github.com/Sergiolunabellido/Gestor-Documental-de-Clientes-GDC-"}>
-                            <div class="p-8 h-full flex flex-col justify-between">
-                                <div>
-                                    <span class="px-2 py-0.5 rounded text-[10px] font-label bg-secondary/20 text-secondary uppercase mb-4 inline-block">Enterprise</span>
-                                    <h3 class="text-2xl font-bold mb-2">GDC</h3>
-                                    <p class="text-on-surface-variant text-sm mb-6">Gestor Documental Centralizado. Optimización de flujos de trabajo corporativos y gestión segura de activos digitales.</p>
-                                </div>
-                                <div class="space-y-4">
-                                    <div class="flex flex-wrap gap-2">
-                                        <span class="px-2 py-1 rounded-full bg-surface-variant text-tertiary text-[15px] font-label">JS</span>
-                                        <span class="px-2 py-1 rounded-full bg-surface-variant text-tertiary text-[15px] font-label">PHP</span>
+                        <div class=" lg:col-span-8 group relative overflow-hidden rounded-xl glass-card transition-all duration-500 hover:border-primary/40" >
+                            <a href="https://github.com/Sergiolunabellido/GlobinVerse">
+                                <img class="w-full h-[400px] object-cover transition-transform duration-700 group-hover:scale-110" data-alt="Dark library or digital book shelf concept" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCZsmM3h-Y2n-VwCoVPzPsFwah9YR2SeFcbA3J4M7lkSjfPFnfqsYwmxQ-biLCDpIfi1LoBn8m1UuTZCbMGeB8455Lq2x7cpIavH3t7K-eptUyNcqQBop-nZUaW_ByzPI6EuTKleOVSfkgzt0mCy0cNq1E5OWZQoJ1GPvjDI-9G2G5fuCjBvIdkw8lsJEF84RDL11wpB-7Jf5tKJ7UE6c7qjZuiucBs8SoOHnTFYkdc0JymJJheFUgxPACKUC3igGDSlKW1eGJAnG0" />
+                                <div class="absolute bottom-[25%] w-full flex flex-col items-center ">
+                                    <div class="flex gap-2 mb-4">
+                                        <span class="px-2 py-0.5 rounded text-[15px] font-b font-label bg-primary/20 text-primary uppercase">Proyecto Web</span>
+                                        <span class="px-2 py-0.5 rounded text-[15px] font-label bg-tertiary/20 text-tertiary uppercase">Full-Stack</span>
                                     </div>
+                                    <h3 class="text-3xl font-bold mb-2">GoblinVerse</h3>
+                                    <p class="text-on-surface-variant mb-6 max-w-lg">Plataforma integral para entusiastas de la lectura. Gestión de catalogo, pagos seguros y experiencia de usuario inmersiva.</p>
                                     
                                 </div>
-                            </div>
+                            </a>
+                        </div>
+
+                        <div class="lg:col-span-4 group relative overflow-hidden rounded-xl glass-card transition-all duration-500 hover:border-secondary/40" >
+                            <a href="https://github.com/Sergiolunabellido/Gestor-Documental-de-Clientes-GDC-">
+                                <div class="p-8 h-full flex flex-col justify-between">
+                                    <div>
+                                        <span class="px-2 py-0.5 rounded text-[10px] font-label bg-secondary/20 text-secondary uppercase mb-4 inline-block">Enterprise</span>
+                                        <h3 class="text-2xl font-bold mb-2">GDC</h3>
+                                        <p class="text-on-surface-variant text-sm mb-6">Gestor Documental Centralizado. Optimización de flujos de trabajo corporativos y gestión segura de activos digitales.</p>
+                                    </div>
+                                    <div class="space-y-4">
+                                        <div class="flex flex-wrap gap-2">
+                                            <span class="px-2 py-1 rounded-full bg-surface-variant text-tertiary text-[15px] font-label">JS</span>
+                                            <span class="px-2 py-1 rounded-full bg-surface-variant text-tertiary text-[15px] font-label">PHP</span>
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                            </a>
                         </div>
 
                         <div class="lg:col-span-4 group relative overflow-hidden rounded-xl glass-card transition-all duration-500 hover:border-tertiary/40">
@@ -129,7 +132,8 @@ export default function Principal() {
                             </div>
                         </div>
 
-                        <div class="lg:col-span-8 group relative overflow-hidden rounded-xl glass-card transition-all duration-500 hover:border-primary/40" onClick={"https://github.com/Sergiolunabellido/AprendeCuidandote"}>
+                        <div class="lg:col-span-8 group relative overflow-hidden rounded-xl glass-card transition-all duration-500 hover:border-primary/40" >
+                            <a href="https://github.com/Sergiolunabellido/AprendeCuidandote">
                             <div class="grid md:grid-cols-2 h-full">
                                 <div class="p-8 flex flex-col justify-center">
                                     <span class="px-2 py-0.5 rounded text-[15px] font-label bg-error/20 text-error uppercase mb-4 inline-block w-fit">Social Impact</span>
@@ -144,6 +148,7 @@ export default function Principal() {
                                     <img class="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" data-alt="Accessible mobile app interface for elderly" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAXU6l5OQgsnZho1KTwi0Yn6xPsydx_BjA8tRwM5MhJMRLxNy0KFQk8mCsSLhUhxITjgAZo-laoe2SvgOPZipco6lXxnZfvDkAIKcWxRAoemfXJIfLofXjB_yda19IUwCoifIOcj-qGmMAHIPDAUS8DeEujHriz5bq6BuLxIXsMktmilXClPlqJUJ6tuZGZYSgWd7RjOm4xYMYa0hgdMGv4rYSuAtnsxQr_RR0guOPnUgZJ2tyOs3fPhrQhOk0sPD2YzWERqgqzIe8" />
                                 </div>
                             </div>
+                            </a>
                         </div>
                     </div>
                 </section>
