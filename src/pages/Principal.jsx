@@ -25,7 +25,7 @@ export default function Principal() {
                         Hola, soy <span class="bg-gradient-to-r from-secondary to-primary bg-clip-text text-transparent">Sergio Luna</span>
                     </h1>
                     <div class="max-w-3xl space-y-4 mb-12">
-                        <p class="text-xl md:text-2xl text-on-surface font-light">Full-Stack Developer | España</p>
+                        <p class="text-xl md:text-2xl text-on-surface font-light">Programador Junior | España</p>
                         <div class="flex flex-wrap justify-center gap-3 text-on-surface-variant text-sm font-label">
                             <span class="px-3 py-1 rounded-md bg-surface-container-high border border-outline-variant/10">React </span>
                             <span class="px-3 py-1 rounded-md bg-surface-container-high border border-outline-variant/10">Node.js </span>
