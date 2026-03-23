@@ -60,14 +60,16 @@ export default function Principal() {
                                     <div class="w-3 h-3 rounded-full bg-primary-dim/40"></div>
                                     <span class="ml-4 text-[10px] font-label text-on-surface-variant/60">sergio-luna.json</span>
                                 </div>
-                                <div class="p-8 font-label text-sm md:text-base leading-relaxed overflow-x-auto text-wrap">
+                                <div class="p-8 font-label text-sm md:text-base text-start leading-relaxed overflow-x-auto text-wrap">
                                     <pre class="text-primary"><span class="text-secondary"></span>
-                                        <span class="text-tertiary">"nombre"</span>: <span class="text-on-surface">"Sergio Luna"</span>,
-                                        <span class="text-tertiary">"ubicacion"</span>: <span class="text-on-surface">"España"</span>,
-                                        <span class="text-tertiary">"rol"</span>: <span class="text-on-surface">"Full-Stack Developer"</span>,
-                                        <span class="text-tertiary">"stack"</span>: <span class="text-on-surface">[<span class="text-primary-dim">"React"</span>, <span class="text-primary-dim">"Node.js"</span>, <span class="text-primary-dim">"Java"</span>]</span>,
-                                        <span class="text-tertiary">"pasion"</span>: <span class="text-on-surface">"Convertir ideas en cÃ³digo elegante"</span>
-                                        <span class="text-secondary"></span></pre>
+                                        <span className="text-gray-400"><span className="text-yellow-500">const</span> Sergio: {"{"}</span><br />
+                                            <span class="ml-5 text-tertiary">"nombre"</span>: <span class="text-on-surface">"Sergio Luna"</span>,<br />
+                                            <span class="ml-5 text-tertiary">"ubicacion"</span>: <span class="text-on-surface">"España"</span>,<br />
+                                            <span class="ml-5 text-tertiary">"rol"</span>: <span class="text-on-surface">"Full-Stack Developer"</span>,<br />
+                                            <span class="ml-5 text-tertiary">"stack"</span>: <span class="text-on-surface">[<span class="text-primary-dim">"React"</span>, <span class="text-primary-dim">"Node.js"</span>, <span class="text-primary-dim">"Java"</span>]</span>,<br />
+                                            <span class="ml-5 text-tertiary">"pasion"</span>: <span class="text-on-surface">"Convertir ideas en codigo elegante"</span><br />
+                                        <span class="text-tertiary"> {"}"}</span><br />
+                                    </pre>
                                 </div>
                             </div>
                         </div>
