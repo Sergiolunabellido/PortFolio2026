@@ -12,7 +12,7 @@ export default function () {
                              GitHub
                         </a>
                         <a class="text-gray-500 hover:text-purple-400 transition-colors opacity-80 hover:opacity-100 flex items-center gap-2 text-sm" href="https://www.linkedin.com/in/sergio-luna-a30413319/">
-                            <span class="material-symbols-outlined text-lg">link</span> LinkedIn
+                             LinkedIn
                         </a>
                     </div>
                     <p class="font-['Inter'] text-sm text-gray-500">© 2024 Sergio Luna. Orchestrating digital experiences.</p>
