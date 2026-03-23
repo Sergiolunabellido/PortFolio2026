@@ -11,7 +11,7 @@ export default function () {
                         <a href="https://github.com/Sergiolunabellido" class="text-gray-500 hover:text-purple-400 transition-colors opacity-80 hover:opacity-100 flex items-center gap-2 text-sm"  target="_blank">
                              GitHub
                         </a>
-                        <a class="text-gray-500 hover:text-purple-400 transition-colors opacity-80 hover:opacity-100 flex items-center gap-2 text-sm" href="#">
+                        <a class="text-gray-500 hover:text-purple-400 transition-colors opacity-80 hover:opacity-100 flex items-center gap-2 text-sm" href="https://www.linkedin.com/in/sergio-luna-a30413319/">
                             <span class="material-symbols-outlined text-lg">link</span> LinkedIn
                         </a>
                     </div>
