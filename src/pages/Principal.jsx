@@ -99,6 +99,12 @@ export default function Principal() {
                                 </div>
                                 <h3 class="text-3xl font-bold mb-2">GoblinVerse</h3>
                                 <p class="text-on-surface-variant mb-6 max-w-lg">Plataforma integral para entusiastas de la lectura. Gestión de catalogo, pagos seguros y experiencia de usuario inmersiva.</p>
+                                <div class="flex gap-2 mb-4">
+                                    <span class="px-2 py-0.5 rounded text-[15px] font-b font-label bg-primary/20 text-primary uppercase">React</span>
+                                    <span class="px-2 py-0.5 rounded text-[15px] font-label bg-tertiary/20 text-tertiary uppercase">Node.js</span>
+                                    <span class="px-2 py-0.5 rounded text-[15px] font-b font-label bg-primary/20 text-primary uppercase">JWT</span>
+                                    <span class="px-2 py-0.5 rounded text-[15px] font-label bg-tertiary/20 text-tertiary uppercase">Stripe</span>
+                                </div>
                             </div>
                         </a>
 
