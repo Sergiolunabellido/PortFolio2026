@@ -43,6 +43,8 @@ export default function Principal() {
                     </div>
                 </section>
 
+               
+
                 <section class="relative py-24 px-8 max-w-7xl mx-auto" id="about">
                     <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
                         <div class="lg:col-span-5 space-y-6">
@@ -166,8 +168,33 @@ export default function Principal() {
                                 </div>
                             </div>
                         </a>
+
+                        <a
+                            class="block lg:col-span-12 group relative overflow-hidden rounded-xl glass-card transition-all duration-500 hover:border-primary/40 cursor-pointer focus-visible:outline focus-visible:outline-2 focus-visible:outline-primary/60"
+                            href="https://github.com/Sergiolunabellido/BotTelegramPythonAndAI#bot-de-telegram-para-consultas-a-odoo-con-ia-"
+                            aria-label="Abrir repositorio BotTelegramPythonAndAI en GitHub"
+                        >
+                            <div class="p-8 h-full flex flex-col justify-between">
+                                <div>
+                                    <span class="px-2 py-0.5 rounded text-[10px] font-label bg-secondary/20 text-secondary uppercase mb-4 inline-block">Integración</span>
+                                    <h3 class="text-2xl font-bold mb-2">Bot de Telegram para consultas a Odoo con IA 🤖📦</h3>
+                                    <p class="text-on-surface-variant text-sm mb-6">Proyecto sencillo y robusto que conecta Telegram con una instancia de Odoo y añade una capa de interpretación por IA para traducir preguntas en lenguaje natural a consultas de Odoo. Diseñado como asistente de consulta: listar clientes, productos, ventas, crear clientes y ejecutar consultas agrupadas.</p>
+                                </div>
+
+                                <div class="space-y-4">
+                                    <div class="flex flex-wrap gap-2">
+                                        <span class="px-2 py-1 rounded-full bg-surface-variant text-tertiary text-[15px] font-label">Python</span>
+                                        <span class="px-2 py-1 rounded-full bg-surface-variant text-tertiary text-[15px] font-label">Odoo</span>
+                                        <span class="px-2 py-1 rounded-full bg-surface-variant text-tertiary text-[15px] font-label">IA</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
                     </div>
                 </section>
+
+            
+                
 
                 {/*
                     Comienzo de seccion de Stack Tecnologico con lenguajes front, back y herramientas
