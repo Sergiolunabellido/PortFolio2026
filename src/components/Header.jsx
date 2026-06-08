@@ -39,7 +39,7 @@ export default function Header(){
                     ))}
                 </div>
                 <div className="flex items-center gap-4">
-                        <a href="https://sergiolunabellido.github.io/PortFolio2026/CV.pdf" download="CV.pdf"  className="text-on-primary-fixed px-5 py-2.5 rounded-md bg-gradient-to-r from-secondary to-primary text-on-primary-fixed font-semibold text-sm hover:scale-105 active:scale-95 transition-all duration-300 shadow-lg shadow-primary/20">
+                        <a href="https://sergiolunabellido.github.io/PortFolio2026/cv_sergio.pdf" download="CV.pdf"  className="text-on-primary-fixed px-5 py-2.5 rounded-md bg-gradient-to-r from-secondary to-primary text-on-primary-fixed font-semibold text-sm hover:scale-105 active:scale-95 transition-all duration-300 shadow-lg shadow-primary/20">
                             Descargar CV
                         </a>
                 </div>
